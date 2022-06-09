@@ -10,7 +10,15 @@ Skills: Java / Spring-boot / Spring-security
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jtn07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//jatin-sai-346051152/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jatin__sai/)  
 
-
+<img
+  src="https://github.com/jtn07/WhatToWatchBeta/blob/master/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtn07)](https://github.com/anuraghazra/github-readme-stats)
 
